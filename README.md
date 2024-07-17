@@ -1,2 +1,2 @@
 # Sales-Dashboard-Tableau
-Tableau Dashboar teach by Baraa Khatib Salkini
+Tableau Dashboard teach by Baraa Khatib Salkini
